@@ -4,7 +4,7 @@ Final week's project of IBM Data Science Certified Professional Certification of
 
 
 ##### Data sources:
-https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M </br>
 https://developer.foursquare.com/docs/api/endpoints
 
 ##### Author/contributor: 
